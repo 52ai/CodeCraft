@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++    -O3 -Wall -std=c++11 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cdn.dir/cdn.cpp.o CMakeFiles/cdn.dir/deploy.cpp.o CMakeFiles/cdn.dir/io.cpp.o  -o /Users/wayne/我的坚果云/代码/CodeCraft/gcc/bin/cdn  

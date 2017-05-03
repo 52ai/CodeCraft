@@ -1,0 +1,3 @@
+/Users/wayne/我的坚果云/代码/CodeCraft/gcc/build/CMakeFiles/rebuild_cache.dir
+/Users/wayne/我的坚果云/代码/CodeCraft/gcc/build/CMakeFiles/edit_cache.dir
+/Users/wayne/我的坚果云/代码/CodeCraft/gcc/build/CMakeFiles/cdn.dir
